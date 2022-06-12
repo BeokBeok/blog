@@ -17,11 +17,11 @@ export default siteConfig({
   description: '기록하는 습관을 만들자',
 
   // utterances (optional). {user_name}/{repo_name}
-  commentRepo: 'improve777/comments',
+  commentRepo: 'BeokBeok/blog',
 
   // social usernames (optional)
   // twitter: 'transitive_bs',
-  github: 'improve777',
+  github: 'BeokBeok',
   // linkedin: 'fisch2',
 
   // default notion icon and cover images for site-wide consistency (optional)
