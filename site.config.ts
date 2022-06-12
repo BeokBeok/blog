@@ -9,9 +9,9 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Day dev',
+  name: 'Beok\'s blog',
   domain: 'blog-beokbeok.vercel.app',
-  author: 'Dan',
+  author: 'BeokBeok',
 
   // open graph metadata (optional)
   description: '기록하는 습관을 만들자',
