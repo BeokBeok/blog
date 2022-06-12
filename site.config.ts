@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'Day dev',
-  domain: 'daydev.vercel.app',
+  domain: 'blog-beokbeok.vercel.app',
   author: 'Dan',
 
   // open graph metadata (optional)
