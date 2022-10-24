@@ -2935,30 +2935,30 @@
   "resolved" "https://registry.npmjs.org/normalize-url/-/normalize-url-7.0.3.tgz"
   "version" "7.0.3"
 
-"notion-client@^6.15.6":
-  "integrity" "sha512-/ze9bHNhi09IvSo+loAelGVf2VsrnPaXoGtea/VUQq0adTvgcQhC1u37BwaK5G8bS/crVC277+KWlgdJOBIxeQ=="
-  "resolved" "https://registry.npmjs.org/notion-client/-/notion-client-6.15.6.tgz"
-  "version" "6.15.6"
+"notion-client@^6.12.6":
+  "integrity" "sha512-aacCgfgJ1UzD2PRLNufSvYVDvzWYBI2vDZJHNaJi8PK9TocG4u2RU+tdC0lVD7aOCr2CP0dOvB8sYehZZIgq8g=="
+  "resolved" "https://registry.npmjs.org/notion-client/-/notion-client-6.12.6.tgz"
+  "version" "6.12.6"
   dependencies:
     "got" "^11.8.1"
-    "notion-types" "^6.15.6"
-    "notion-utils" "^6.15.6"
+    "notion-types" "^6.12.6"
+    "notion-utils" "^6.12.6"
     "p-map" "^5.3.0"
 
-"notion-types@^6.15.6":
-  "integrity" "sha512-JgLWDN4oHg/1sNdHDCeKUfdPl1AYsjOTnYkq+Zn7vITPykxbhw7nIxbAJ7owWUTro1cYTPh+GVmdX0mPiZGujg=="
-  "resolved" "https://registry.npmjs.org/notion-types/-/notion-types-6.15.6.tgz"
-  "version" "6.15.6"
+"notion-types@^6.12.6":
+  "integrity" "sha512-UBbhnzKgn48SVTkMP5It3heODrf8gAPb6O5vLna9pi9zdAtfSjmGmn5//C0P1rF/ppX7cCfgX964g+8VLUBOag=="
+  "resolved" "https://registry.npmjs.org/notion-types/-/notion-types-6.12.6.tgz"
+  "version" "6.12.6"
 
-"notion-utils@^6.15.6":
-  "integrity" "sha512-Ys7lQ5KWmrk9ZmpFquomQcVRdQqmZMRAl0aFhoqirVgeyKtq/i5IZoHCw8jCY8732WlaEAUnBid56nN33N2fRQ=="
-  "resolved" "https://registry.npmjs.org/notion-utils/-/notion-utils-6.15.6.tgz"
-  "version" "6.15.6"
+"notion-utils@^6.12.6":
+  "integrity" "sha512-QrduKoNyB5XNNk+vIZrQ+niSdnldXk9WUCd2/jUWjCq6dBSL8w9Md2/VE/U5WO1t5ahBr9h2iKaMbQDsF8jT5A=="
+  "resolved" "https://registry.npmjs.org/notion-utils/-/notion-utils-6.12.6.tgz"
+  "version" "6.12.6"
   dependencies:
     "is-url-superb" "^6.1.0"
     "mem" "^9.0.2"
     "normalize-url" "^7.0.3"
-    "notion-types" "^6.15.6"
+    "notion-types" "^6.12.6"
     "p-queue" "^7.2.0"
 
 "npm-run-all@^4.1.5":
